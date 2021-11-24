@@ -1,5 +1,8 @@
 import React, { useState } from "react";
-import "react-phone-number-input/style.css";
+/* import "react-phone-number-input/style.css"; */
+
+import "./mystyle.css"
+
 import PhoneInput from "react-phone-number-input";
 /* import World from "../src/images/img.jpg"
 import Covid from "../src/images/img1.jpg" */
