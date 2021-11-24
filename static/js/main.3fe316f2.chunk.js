@@ -1,2 +1,0 @@
-(this["webpackJsonpphone-input"]=this["webpackJsonpphone-input"]||[]).push([[0],{20:function(e,t,n){"use strict";n.r(t);var c=n(1),a=n(10),p=(n(13),n(9)),r=n(4);var s=function(){var e=Object(c.useState)(),t=Object(a.a)(e,2),n=t[0],s=t[1];return Object(r.jsxs)("div",{className:"App",children:[Object(r.jsx)("h1",{children:"My React App"}),Object(r.jsx)(p.a,{placeholder:"Enter phone number",value:n,onChange:s})]})},o=n(8);n.n(o).a.render(Object(r.jsx)(s,{}),document.getElementById("root"))}},[[20,1,2]]]);
-//# sourceMappingURL=main.3fe316f2.chunk.js.map
